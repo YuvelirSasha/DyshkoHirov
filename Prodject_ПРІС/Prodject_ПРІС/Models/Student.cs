@@ -22,9 +22,8 @@ namespace Prodject_ПРІС.Data
         public string Email { get; set; }
 
         public DateTime DateSt { get; set; }
-        
-        [ForeignKey("ClassRoom")]
-        public int IdCr { get; set; }
+
+        public List<ClassRoom> ClassRooms { get; set; }
 
     }
 }

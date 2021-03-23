@@ -17,5 +17,10 @@ namespace Prodject_ПРІС.Data
         public string nameCr { get; set; }
 
         public DateTime DateCr { get; set; }
+
+        
+
+        
+        
     }
 }

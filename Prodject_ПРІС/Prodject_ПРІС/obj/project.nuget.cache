@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Eg4i6xzc/CdSnXL7tECpX3ubOtBIVZcbtY/vgIeUIEP100R8Omoev5b+OOfRsHll+qikeYkPZ8pybctbd5GyTg==",
+  "dgSpecHash": "yBdp+ZLGtzQLCa915bWaip/zm/MLN+vY0xEj95McWm0OfPwLmUETfYy7nefzhqvgk6thckg1DUUMX5sx95JlUA==",
   "success": true,
-  "projectFilePath": "D:\\C#\\DyshkoHirov\\Prodject_ПРІС\\Prodject_ПРІС\\Prodject_ПРІС.csproj",
+  "projectFilePath": "D:\\C#\\DyshkoHirov\\Prodject_ПРІС\\Prodject_ПРІС\\Prodject_.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Олександр\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Олександр\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

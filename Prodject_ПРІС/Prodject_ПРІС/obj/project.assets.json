@@ -5754,9 +5754,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\DyshkoHirov\\Prodject_ПРІС\\Prodject_ПРІС\\Prodject_ПРІС.csproj",
-      "projectName": "Prodject_ПРІС",
-      "projectPath": "D:\\C#\\DyshkoHirov\\Prodject_ПРІС\\Prodject_ПРІС\\Prodject_ПРІС.csproj",
+      "projectUniqueName": "D:\\C#\\DyshkoHirov\\Prodject_ПРІС\\Prodject_ПРІС\\Prodject_.csproj",
+      "projectName": "Prodject_",
+      "projectPath": "D:\\C#\\DyshkoHirov\\Prodject_ПРІС\\Prodject_ПРІС\\Prodject_.csproj",
       "packagesPath": "C:\\Users\\Олександр\\.nuget\\packages\\",
       "outputPath": "D:\\C#\\DyshkoHirov\\Prodject_ПРІС\\Prodject_ПРІС\\obj\\",
       "projectStyle": "PackageReference",
