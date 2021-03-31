@@ -57,7 +57,6 @@ D:\C#\DyshkoHirov\Prodject_ПРІС\Prodject_ПРІС\obj\Debug\net5.0\Prodject_
 D:\C#\DyshkoHirov\Prodject_ПРІС\Prodject_ПРІС\obj\Debug\net5.0\Prodject_.RazorCoreGenerate.cache
 D:\C#\DyshkoHirov\Prodject_ПРІС\Prodject_ПРІС\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 D:\C#\DyshkoHirov\Prodject_ПРІС\Prodject_ПРІС\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-D:\C#\DyshkoHirov\Prodject_ПРІС\Prodject_ПРІС\obj\Debug\net5.0\Razor\Views\Layout\UsingLayout.cshtml.g.cs
 D:\C#\DyshkoHirov\Prodject_ПРІС\Prodject_ПРІС\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 D:\C#\DyshkoHirov\Prodject_ПРІС\Prodject_ПРІС\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\C#\DyshkoHirov\Prodject_ПРІС\Prodject_ПРІС\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
