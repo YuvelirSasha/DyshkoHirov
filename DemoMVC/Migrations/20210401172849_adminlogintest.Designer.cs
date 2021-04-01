@@ -4,14 +4,16 @@ using DemoMVC.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace DemoMVC.Migrations
 {
     [DbContext(typeof(SchoolDatabaseContext))]
-    partial class SchoolDatabaseContextModelSnapshot : ModelSnapshot
+    [Migration("20210401172849_adminlogintest")]
+    partial class adminlogintest
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

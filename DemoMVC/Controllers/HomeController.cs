@@ -7,6 +7,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using DemoMVC.Models;
 using Microsoft.AspNetCore.Authorization;
+using System.Security.Claims;
 
 namespace DemoMVC.Controllers
 {
@@ -19,11 +20,7 @@ namespace DemoMVC.Controllers
             _logger = logger;
         }
        
-        [Authorize]
-        public IActionResult Index()
-        {
-            return Content(User.Identity.Name);
-        }
+       
 
         public IActionResult Privacy()
         {
@@ -34,6 +31,18 @@ namespace DemoMVC.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+        [Authorize(Roles = "admin, user")]
+        public IActionResult Index()
+        {
+            string role = User.FindFirst(x => x.Type == ClaimsIdentity.DefaultRoleClaimType).Value;
+            return Content($"ваша роль: {role}");
+        }
+        [Authorize(Roles = "admin")]
+        public IActionResult About()
+        {
+            return Content("Вход только для администратора");
         }
     }
 }
