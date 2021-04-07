@@ -1382,3 +1382,7 @@ D:\C#\DyshkoHirov\DemoMVC\obj\Debug\net5.0\DemoMVC.RazorTargetAssemblyInfo.cs
 D:\C#\DyshkoHirov\DemoMVC\obj\Debug\net5.0\DemoMVC.Views.pdb
 D:\C#\DyshkoHirov\DemoMVC\obj\Debug\net5.0\DemoMVC.csproj.CopyComplete
 D:\C#\DyshkoHirov\DemoMVC\obj\Debug\net5.0\DemoMVC.genruntimeconfig.cache
+D:\C#\DyshkoHirov\DemoMVC\obj\Debug\net5.0\Razor\Views\ClassRoom\Create.cshtml.g.cs
+D:\C#\DyshkoHirov\DemoMVC\obj\Debug\net5.0\Razor\Views\ClassRoom\Delete.cshtml.g.cs
+D:\C#\DyshkoHirov\DemoMVC\obj\Debug\net5.0\Razor\Views\ClassRoom\Details.cshtml.g.cs
+D:\C#\DyshkoHirov\DemoMVC\obj\Debug\net5.0\Razor\Views\ClassRoom\Edit.cshtml.g.cs
